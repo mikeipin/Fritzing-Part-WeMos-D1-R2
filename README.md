@@ -9,7 +9,8 @@ Fritzing part for the WeMos D1 R2
 
 #### Breadboard:
 
-![Fritzing Breadboard](https://raw.github.com/mcauser/Fritzing-Part-WeMos-D1-R2/master/demo/breadboard.png)
+![Fritzing Breadboard](https://github.com/tamemike/Fritzing-Part-WeMos-D1-R2/blob/master/demo/Fade.png)
+
 
 #### Schematic:
 
