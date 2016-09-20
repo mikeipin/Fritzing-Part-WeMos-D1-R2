@@ -9,13 +9,13 @@ Fritzing part for the WeMos D1 R2
 
 #### Breadboard:
 
-![Fritzing Breadboard](https://github.com/tamemike/Fritzing-Part-WeMos-D1-R2/blob/master/demo/Fade.png)
+![Fritzing Breadboard](https://github.com/mikeipin/Fritzing-Part-WeMos-D1-R2/blob/master/demo/Fade.png)
 
 
 #### Schematic:
 
-![Fritzing Schematic](https://github.com/tamemike/Fritzing-Part-WeMos-D1-R2/blob/master/demo/schematic.png)
+![Fritzing Schematic](https://github.com/mikeipin/Fritzing-Part-WeMos-D1-R2/blob/master/demo/schematic.png)
 
 #### PCB:
 
-![Fritzing PCB](https://github.com/tamemike/Fritzing-Part-WeMos-D1-R2/blob/master/demo/pcb.png)
+![Fritzing PCB](https://github.com/mikeipin/Fritzing-Part-WeMos-D1-R2/blob/master/demo/pcb.png)
